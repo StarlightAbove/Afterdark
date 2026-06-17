@@ -3,6 +3,8 @@
 
 A critical blog exploring the intersection of technology, politics, ecosocialism, and philosophy.
 
+Visit at afterdark.elizakishan.com.
+
 ## About
 
 Afterdark is an open-source blog dedicated to examining how technology shapes and is shaped by political structures, ecological systems, and philosophical thought. It is my personal long-form thought piece forum, publishing long-form analysis on tech policy, digital rights, environmental concerns, and ideological frameworks.
